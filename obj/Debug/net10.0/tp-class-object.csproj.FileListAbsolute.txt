@@ -1,0 +1,15 @@
+C:\Users\qgaillard\Documents\projets\mes-projets\projet-C#\tp-class-object\bin\Debug\net10.0\tp-class-object.exe
+C:\Users\qgaillard\Documents\projets\mes-projets\projet-C#\tp-class-object\bin\Debug\net10.0\tp-class-object.deps.json
+C:\Users\qgaillard\Documents\projets\mes-projets\projet-C#\tp-class-object\bin\Debug\net10.0\tp-class-object.runtimeconfig.json
+C:\Users\qgaillard\Documents\projets\mes-projets\projet-C#\tp-class-object\bin\Debug\net10.0\tp-class-object.dll
+C:\Users\qgaillard\Documents\projets\mes-projets\projet-C#\tp-class-object\bin\Debug\net10.0\tp-class-object.pdb
+C:\Users\qgaillard\Documents\projets\mes-projets\projet-C#\tp-class-object\obj\Debug\net10.0\tp-class-object.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\qgaillard\Documents\projets\mes-projets\projet-C#\tp-class-object\obj\Debug\net10.0\tp-class-object.AssemblyInfoInputs.cache
+C:\Users\qgaillard\Documents\projets\mes-projets\projet-C#\tp-class-object\obj\Debug\net10.0\tp-class-object.AssemblyInfo.cs
+C:\Users\qgaillard\Documents\projets\mes-projets\projet-C#\tp-class-object\obj\Debug\net10.0\tp-class-object.csproj.CoreCompileInputs.cache
+C:\Users\qgaillard\Documents\projets\mes-projets\projet-C#\tp-class-object\obj\Debug\net10.0\tp-class-object.sourcelink.json
+C:\Users\qgaillard\Documents\projets\mes-projets\projet-C#\tp-class-object\obj\Debug\net10.0\tp-class-object.dll
+C:\Users\qgaillard\Documents\projets\mes-projets\projet-C#\tp-class-object\obj\Debug\net10.0\refint\tp-class-object.dll
+C:\Users\qgaillard\Documents\projets\mes-projets\projet-C#\tp-class-object\obj\Debug\net10.0\tp-class-object.pdb
+C:\Users\qgaillard\Documents\projets\mes-projets\projet-C#\tp-class-object\obj\Debug\net10.0\tp-class-object.genruntimeconfig.cache
+C:\Users\qgaillard\Documents\projets\mes-projets\projet-C#\tp-class-object\obj\Debug\net10.0\ref\tp-class-object.dll
