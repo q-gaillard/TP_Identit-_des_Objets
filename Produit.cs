@@ -2,9 +2,9 @@ using System.IO.Pipelines;
 
 class Produit
 {
-    private string codeArticle;
-    private string designation;
-    private double prix;
+    protected string codeArticle;
+    protected string designation;
+    protected double prix;
 
     public Produit(string code, string nom, double px)
     {
